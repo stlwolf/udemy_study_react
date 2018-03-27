@@ -1,4 +1,9 @@
 $backcolor: #eee;
+$textcolor: #444;
 body {
     background-color: $backcolor;
+    text-align: center;
+    color: $textcolor;
 }
+
+@import 'GeocodeResult'
